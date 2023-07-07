@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fa1b662-6ea3-48e9-bf71-d03fadc6b1e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DSA_PROJ02/src/DSA_PROJ02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEETCODE/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEETCODE/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEETCODE/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEETCODE/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEETCODE/LEETCODE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEETCODE/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayCSCI251ProjectThreee/src/com/project01/MyHashEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayCSCI251ProjectThreee/src/com/project01/MyHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayCSCI251ProjectThreee/src/com/project01/PhongsavanhMongkhonvilayCSCI251ProjThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayCSCI251ProjectTwo/src/com/project01/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayCSCI251ProjectTwo/src/com/project01/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayCSCI251ProjectTwo/src/com/project01/PhongsavanhMongkhonvilayCSCI251ProjectTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayCSCI251ProjectTwo/src/com/project01/PhongsavanhMongkhonvilayCSCI251ProjectTwo.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayCSCI251ProjectTwo/src/com/project01/PhongsavanhMongkhonvilayCSCI251ProjectTwo/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayCSCI251ProjectTwo/src/com/project01/PhongsavanhMongkhonvilayCSCI251ProjectTwo/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayCSCI251ProjectTwo/src/com/project01/PhongsavanhMongkhonvilayCSCI251ProjectTwo/PhongsavanhMongkhonvilayCSCI251ProjectTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/src/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springtutorial/movies/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springtutorial/movies/MovieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springtutorial/movies/MovieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springtutorial/movies/MovieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springtutorial/movies/MoviesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springtutorial/movies/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springtutorial/movies/ReviewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springtutorial/movies/ReviewRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springtutorial/movies/ReviewService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAM3/out/production/EXAM3/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAM3/out/production/EXAM3/Programming.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAM3/out/production/EXAM3/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTELLIJ/PhongsavanhMongkhonvilayProject09/out/production/PhongsavanhMongkhonvilayProject09/Temperature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTELLIJ/PhongsavanhMongkhonvilayProject09/out/production/PhongsavanhMongkhonvilayProject09/TestTemperature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTELLIJ/PhongsavanhMongkhonvilayProject09/src/phongsavanhMongkhonvilayProject09.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTELLIJ/Proj9Demo.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTELLIJ/Project01" beforeDir="false" afterPath="$PROJECT_DIR$/../INTELLIJ/Project01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayProject012/out/production/PhongsavanhMongkhonvilayProject012/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayProject012/out/production/PhongsavanhMongkhonvilayProject012/CheckingAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayProject012/out/production/PhongsavanhMongkhonvilayProject012/IllegalAmountException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayProject012/out/production/PhongsavanhMongkhonvilayProject012/NoSufficientFundsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayProject012/out/production/PhongsavanhMongkhonvilayProject012/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayProject012/out/production/PhongsavanhMongkhonvilayProject012/TestAccounts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayProject012/src/PhongsavanhMongkhonvilayProject12.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayProject10/out/production/PhongsavanhMongkhonvilayProject10/MyString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayProject10/out/production/PhongsavanhMongkhonvilayProject10/MyStringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayProject10/src/PhongsavanhMongkhonvilayProject10.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayProject11/out/production/PhongsavanhMongkhonvilayProject11/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayProject11/out/production/PhongsavanhMongkhonvilayProject11/CheckingAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayProject11/out/production/PhongsavanhMongkhonvilayProject11/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayProject11/out/production/PhongsavanhMongkhonvilayProject11/TestAccounts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhongsavanhMongkhonvilayProject11/src/PhongsavanhMongkhonvilayProject11.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SAe5bO3QEBmZ09xY1k1pTN39tu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/azulatech/Desktop/CS PROJECTS/JAVA/movies",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MoviesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springtutorial.movies.MoviesApplication" />
+      <module name="movies" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springtutorial.movies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MoviesApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fa1b662-6ea3-48e9-bf71-d03fadc6b1e7" name="Changes" comment="" />
+      <created>1688593632473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688593632473</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
